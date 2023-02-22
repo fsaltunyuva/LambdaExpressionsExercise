@@ -1,4 +1,4 @@
-# LambdaExpressionsExercise
+# Lambda Expressions Exercise
 
 Ödev - Kitap Listesi
 
